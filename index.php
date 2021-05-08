@@ -1,5 +1,5 @@
 <?php
 
-include_once("ctf website.html");
+include_once("test.html");
 
  ?>
